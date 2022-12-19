@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/aos/static/css/main.9ac1a3f2.css",
-    "main.js": "/aos/static/js/main.98a40c54.js",
+    "main.css": "/aos/static/css/main.ad632da4.css",
+    "main.js": "/aos/static/js/main.3bcb8917.js",
     "static/js/787.12630788.chunk.js": "/aos/static/js/787.12630788.chunk.js",
     "static/media/magic.svg": "/aos/static/media/magic.a53378e0e9daf44e3bfdacb65668cc78.svg",
     "static/media/cmdabl.svg": "/aos/static/media/cmdabl.aa744ca56f4d7b2f1de6e92779618cdf.svg",
     "static/media/battle.svg": "/aos/static/media/battle.bfff030822872974e915a4847f86fe3b.svg",
     "static/media/flag.svg": "/aos/static/media/flag.f3b2bf24308a10d8409c5514de90f61f.svg",
     "index.html": "/aos/index.html",
+    "static/media/info.svg": "/aos/static/media/info.fc491b63f4a5a5ff780abb5b37654dc5.svg",
     "static/media/rules.svg": "/aos/static/media/rules.52cc1a431590f9e128bb81a5dd1d428e.svg",
     "static/media/warscrolls.svg": "/aos/static/media/warscrolls.3732cf47d0a4c541fb9870837da83124.svg",
     "static/media/play.svg": "/aos/static/media/play.4e298b7103e5bdf89a002910f5a14a6d.svg",
-    "main.9ac1a3f2.css.map": "/aos/static/css/main.9ac1a3f2.css.map",
-    "main.98a40c54.js.map": "/aos/static/js/main.98a40c54.js.map",
+    "main.ad632da4.css.map": "/aos/static/css/main.ad632da4.css.map",
+    "main.3bcb8917.js.map": "/aos/static/js/main.3bcb8917.js.map",
     "787.12630788.chunk.js.map": "/aos/static/js/787.12630788.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9ac1a3f2.css",
-    "static/js/main.98a40c54.js"
+    "static/css/main.ad632da4.css",
+    "static/js/main.3bcb8917.js"
   ]
 }
